@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "air-checker",
+                "projectName": "air-checker",
+                "workingDirectory": "/Users/prakashbalasubramanian/Coding/air-checker",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "air-checker",
+                "projectName": "air-checker",
+                "workingDirectory": "/Users/prakashbalasubramanian/Coding/air-checker",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

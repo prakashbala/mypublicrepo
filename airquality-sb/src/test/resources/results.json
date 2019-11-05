@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "name": "openaq-api",
+        "license": "CC BY 4.0",
+        "website": "https://docs.openaq.org/",
+        "page": 1,
+        "limit": 100,
+        "found": 8
+    },
+    "results": [
+        {
+            "location": "RBU - WBSPCB",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 3740,
+            "sourceNames": [
+                "CPCB"
+            ],
+            "lastUpdated": "2016-09-19T05:45:00.000Z",
+            "firstUpdated": "2016-06-28T04:32:00.000Z",
+            "parameters": [
+                "no2",
+                "pm25",
+                "so2",
+                "pm10",
+                "co",
+                "o3"
+            ],
+            "sourceName": "CPCB",
+            "coordinates": {
+                "latitude": 22.627874,
+                "longitude": 88.3804
+            }
+        },
+        {
+            "location": "Rabindra Bharati University, Kolkata - WBPCB",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 2213,
+            "sourceNames": [
+                "CPCB",
+                "caaqm"
+            ],
+            "lastUpdated": "2018-11-06T06:30:00.000Z",
+            "firstUpdated": "2017-10-28T14:30:00.000Z",
+            "parameters": [
+                "no2",
+                "so2",
+                "pm10",
+                "co",
+                "o3"
+            ],
+            "sourceName": "caaqm",
+            "coordinates": {
+                "latitude": 22.627874,
+                "longitude": 88.3804
+            }
+        },
+        {
+            "location": "Rabindra Bharati University, Kolkata - WBSPCB",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 56064,
+            "sourceNames": [
+                "CPCB"
+            ],
+            "lastUpdated": "2017-10-28T14:30:00.000Z",
+            "firstUpdated": "2016-09-20T10:15:00.000Z",
+            "parameters": [
+                "co",
+                "o3",
+                "no2",
+                "pm10",
+                "so2"
+            ],
+            "sourceName": "CPCB",
+            "coordinates": {
+                "latitude": 22.627874,
+                "longitude": 88.3804
+            }
+        },
+        {
+            "location": "Rabindra Bharati University,Calcutta-WBSPCB",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 14,
+            "sourceNames": [
+                "CPCB"
+            ],
+            "lastUpdated": "2016-09-20T10:15:00.000Z",
+            "firstUpdated": "2016-09-20T08:45:00.000Z",
+            "parameters": [
+                "pm10",
+                "no2",
+                "o3",
+                "co"
+            ],
+            "sourceName": "CPCB",
+            "coordinates": {
+                "latitude": 22.627874,
+                "longitude": 88.3804
+            }
+        },
+        {
+            "location": "US Diplomatic Post: Kolkata",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 24264,
+            "sourceNames": [
+                "StateAir_Kolkata"
+            ],
+            "lastUpdated": "2019-01-12T11:30:00.000Z",
+            "firstUpdated": "2015-12-11T21:30:00.000Z",
+            "parameters": [
+                "pm25"
+            ],
+            "sourceName": "StateAir_Kolkata",
+            "coordinates": {
+                "latitude": 22.56263,
+                "longitude": 88.36304
+            }
+        },
+        {
+            "location": "Victoria Memorial - WBPCB",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 10125,
+            "sourceNames": [
+                "CPCB"
+            ],
+            "lastUpdated": "2017-10-18T03:15:00.000Z",
+            "firstUpdated": "2017-10-18T03:15:00.000Z",
+            "parameters": [
+                "co",
+                "so2",
+                "pm10",
+                "no2",
+                "o3"
+            ],
+            "sourceName": "CPCB",
+            "coordinates": {
+                "latitude": 22.572645,
+                "longitude": 88.36389
+            }
+        },
+        {
+            "location": "Victoria Memorial - WBSPCB",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 275269,
+            "sourceNames": [
+                "CPCB"
+            ],
+            "lastUpdated": "2017-10-18T03:15:00.000Z",
+            "firstUpdated": "2016-06-25T09:45:00.000Z",
+            "parameters": [
+                "no2",
+                "so2",
+                "o3",
+                "co",
+                "pm10",
+                "pm25"
+            ],
+            "sourceName": "CPCB",
+            "coordinates": {
+                "latitude": 22.572645,
+                "longitude": 88.36389
+            }
+        },
+        {
+            "location": "Victoria, Kolkata - WBPCB",
+            "city": "Kolkata",
+            "country": "IN",
+            "count": 31568,
+            "sourceNames": [
+                "caaqm"
+            ],
+            "lastUpdated": "2019-01-03T16:15:00.000Z",
+            "firstUpdated": "2018-04-15T22:45:00.000Z",
+            "parameters": [
+                "o3",
+                "pm10",
+                "co",
+                "pm25",
+                "no2",
+                "so2"
+            ],
+            "sourceName": "caaqm",
+            "coordinates": {
+                "latitude": 22.544807,
+                "longitude": 88.34037
+            }
+        }
+    ]
+}
